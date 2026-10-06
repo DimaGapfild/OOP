@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# C++ build output
+*.out
+*.o
+*.exe
+build/
+
+
+# Solutions
+*розв'язки*
