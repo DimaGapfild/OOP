@@ -1,7 +1,7 @@
 # Object-Oriented Programming
 
 A university course (a continuation of the "Algorithmization and Programming" course).
-Implementation language: **Python 3**.
+Main implementation language: **Python 3**. Every example in the lectures is also given in **JavaScript** (ES2022+) and **C++** (C++20; some examples are marked C++23).
 
 ## Structure
 
